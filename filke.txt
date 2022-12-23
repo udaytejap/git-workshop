@@ -1,2 +1,2 @@
 THis is sample text
-
+This line is from branch2
